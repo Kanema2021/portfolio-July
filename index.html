@@ -7,7 +7,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
         integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-2/css/all.min.css" rel="stylesheet">
+    <link href="rel=" stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"" rel=" stylesheet">
     <link rel="stylesheet" href="style.css">
     <title>Karen's July Portfolio</title>
 
@@ -17,6 +18,7 @@
     <header class="menu">
         <div class="menu-wrap">
             <img src="logo.png" class="logo-img" alt="Logo">
+
 
             <nav>
                 <ul>
@@ -31,23 +33,21 @@
                         </div>
                     </div>
                     <div class="dropdown">
-                        <li><a href="#contactinfo" style="text-decoration:none; color: rgb(239, 245, 243);">Contact</a>
+                        <li><a style="text-decoration:none; color: rgb(239, 245, 243);">Contact</a>
                         </li>
                         <div class="dropdown-child">
                             <a href="https://github.com/Kanema2021">Github Repo</a>
-                            <a href="https://www.linkedin.com">Linkedin</a>
+                            <a href="https://www.linkedin.com/in/karen-marting-376a25a/">Linkedin</a>
                             <a href="mailto:karenannemarting@yahoo.com">Email</a>
                         </div>
                     </div>
                     <div class="dropdown">
-                        <li><a href="#aboutMe" onclick="viewAboutMe()"
-                                style="text-decoration:none; color: rgb(239, 245, 243);">About Me</a>
+                        <li><a style="text-decoration:none; color: rgb(239, 245, 243);">About Me</a>
                         </li>
                         <div class="dropdown-child">
                             <a
                                 href="https://docs.google.com/document/d/1J2E4If68rqJmcjp8Z-sS900B6Km1Fc7eDuqTs62E3js/edit?usp=sharing">Resume</a>
-                            <a href="https://www.linkedin.com/in/karen-marting-376a25a/">Bio</a>
-
+                            <a href="#bio" onclick="viewAboutMe()">Bio</a>
                         </div>
                     </div>
                 </ul>
@@ -55,7 +55,7 @@
 
         </div>
     </header>
-       
+
     <div class="row">
         <div class="col-s4 flip-card">
             <div class="flip-card-inner">
@@ -99,25 +99,29 @@
     </div>
 
     <div class="card">
-            
-     
-        <img src="/assets/karen.jpg" id="img" alt="Logo"> 
-        
+        <h1 id="bio">About Karen</h1>
+
+        <img src="/assets/karen.jpg" id="img" alt="Karen Marting">
+
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
             dolore magna aliqua. Ultrices gravida dictum fusce ut placerat orci. A pellentesque sit amet porttitor.
             Sed adipiscing diam donec adipiscing tristique. Adipiscing commodo elit at imperdiet dui accumsan sit
             amet. Morbi tristique senectus et netus. Ac tortor dignissim convallis aenean et tortor at. Rhoncus
             dolor purus non enim praesent elementum facilisis. Egestas purus viverra accumsan in nisl. Suspendisse
             interdum consectetur libero id faucibus nisl. Pharetra convallis posuere morbi leo.</p>
-        
+    </div>
+
+
+    <div class="row 12" id="footer">
+        <div>
+        <a href="mailto:karenannemarting@yahoo.com">Email</a>
+        <a href="https://www.linkedin.com/in/karen-marting-376a25a/">Linkedin</a>
+        <a href="https://github.com/Kanema2021">Github</a>
         </div>
+        <div><small>&copy; Copyright 2021, Brickwall Web Development</small></div>
+    </div>
 
-
-
-    <footer id=footer>
-
-    </footer>
-
+    <script src="scripts.js"></script>
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
         integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
         crossorigin="anonymous"></script>
@@ -127,7 +131,7 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
         integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
         crossorigin="anonymous"></script>
-    <script src="scripts.js"></script>
+
 </body>
 
 </html>
