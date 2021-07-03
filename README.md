@@ -1,6 +1,11 @@
 # portfolio-July
 Karen's July Portfolio
 
+![Screen Shot 2021-07-03 at 1 17 57 PM](https://user-images.githubusercontent.com/82725636/124366201-c8181980-dc02-11eb-8099-3360e7b57322.png)
+
+
+![Screen Shot 2021-07-03 at 1 18 22 PM](https://user-images.githubusercontent.com/82725636/124366208-d5cd9f00-dc02-11eb-84b4-3a7ecb2a15f1.png)
+
 GIVEN I need to potential employers to see updated samples of my work 
 WHEN I load my portfolio
 THEN I am presented with my name, a recent photo or avatar, and links to sections about me, my work, and how to contact me
