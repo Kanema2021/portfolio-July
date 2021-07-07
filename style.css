@@ -9,6 +9,14 @@
     background-image: url("./Assets/brick-wall-1.jpg");
     background-size: cover;
  }
+
+ #portfolio{
+    font-family: fantasy;  
+    padding-top: 20px;
+    text-align: center;
+    color: #56666a;
+    text-shadow: darkgrey ;
+ }
  
  header {
     height: 70px;
@@ -17,17 +25,6 @@
     margin: auto;
     font-size: 20px;   
  }
-
- /* #name {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    position: absolute;
-    max-width: 50%;
-    background: #fff;
-    align-items: left;
-    margin: auto;
-  } */
 
  .menu-wrap {
     display: flex;
@@ -197,21 +194,11 @@
   #bio{
       text-align: center;
       font-family: fantasy;
-      color: rgb(108, 107, 107);
-      
+      color: rgb(108, 107, 107);  
   }
 
-  /* .hidden{
-    display:none;
-  } */
-  /* .container{
-    display: inline-block; 
-    width: 100%;
-    margin: auto;
-    clear: both;
-    overflow: auto;
-    height: 100%;  
-  } */
+  
+  
 
   #footer {
     width: 100%;
