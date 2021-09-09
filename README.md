@@ -2,7 +2,7 @@
 Karen's July Portfolio
 
 ![updated-portfolio](https://user-images.githubusercontent.com/82725636/132626751-a86dedd5-3be7-483b-b4e2-831a84563955.png)
-
+![mobile-portfolio](https://user-images.githubusercontent.com/82725636/132627025-0d69c020-0859-4d02-a76e-4612a15cb910.png)
 
 GIVEN I need to potential employers to see updated samples of my work 
 WHEN I load my portfolio
