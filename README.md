@@ -1,10 +1,8 @@
-# portfolio-July
+# portfolio-September
 Karen's July Portfolio
 
-![Screen Shot 2021-07-03 at 1 17 57 PM](https://user-images.githubusercontent.com/82725636/124366201-c8181980-dc02-11eb-8099-3360e7b57322.png)
+![updated-portfolio](https://user-images.githubusercontent.com/82725636/132626751-a86dedd5-3be7-483b-b4e2-831a84563955.png)
 
-
-![Screen Shot 2021-07-03 at 1 18 22 PM](https://user-images.githubusercontent.com/82725636/124366208-d5cd9f00-dc02-11eb-84b4-3a7ecb2a15f1.png)
 
 GIVEN I need to potential employers to see updated samples of my work 
 WHEN I load my portfolio
