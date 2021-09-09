@@ -16,8 +16,8 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 HTML, Bootstrap and CSS 
 
-https://kanema2021.github.io/portfolio-July/
-https://github.com/Kanema2021/portfolio-July/
+https://kanema2021.github.io/portfolio-September/
+https://github.com/Kanema2021/portfolio-September
 
 When I open my repositories
 I find they have quality README files with links and images.
