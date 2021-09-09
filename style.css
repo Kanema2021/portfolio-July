@@ -37,6 +37,7 @@
  }
 
  nav {
+   font-family: fantasy;
     position: absolute;
     background-color: rgb(165, 150, 150);
     top:70px;
@@ -44,7 +45,6 @@
     width: 100%;
     padding: 5px;
     border-radius: 3px;
-    font-family: fantasy;
     z-index: 1;  
  }
 
@@ -179,7 +179,7 @@
   }
 
   .card p{
-      text-align: right;
+      text-align: center;
       color: rgb(108, 107, 107);
   }
 
@@ -196,9 +196,6 @@
       font-family: fantasy;
       color: rgb(108, 107, 107);  
   }
-
-  
-  
 
   #footer {
     width: 100%;
